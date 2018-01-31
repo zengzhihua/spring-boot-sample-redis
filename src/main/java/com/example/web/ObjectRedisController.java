@@ -3,6 +3,7 @@ package com.example.web;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
@@ -24,8 +25,8 @@ public class ObjectRedisController {
 		personDao.save(person);
 	}
 	
-	@RequestMapping("/getPerson")
-	public Person getPerson(String id){
+	@RequestMapping("/getPerson/{id}")
+	public Person getPerson(@PathVariable("id") String id){
 		return personDao.getPerson(id);
 	}
 	
