@@ -1,0 +1,22 @@
+2018-01-31 11:13:45,981 INFO (StartupInfoLogger.java:48)- Starting SpringBootSampleRedisApplication on LAPTOP-503VAI52 with PID 21296 (F:\spring\springboot\spring-boot-sample-redis\target\classes started by zengzhihua in F:\spring\springboot\spring-boot-sample-redis)
+2018-01-31 11:13:45,993 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.1.RELEASE, Spring v4.3.6.RELEASE
+2018-01-31 11:13:45,994 INFO (SpringApplication.java:637)- No active profile set, falling back to default profiles: default
+2018-01-31 11:13:54,108 INFO (StartupInfoLogger.java:57)- Started SpringBootSampleRedisApplication in 9.229 seconds (JVM running for 24.324)
+2018-01-31 11:16:41,947 DEBUG (StringRedisController.java:26)- 访问get:key=null
+2018-01-31 11:16:45,886 DEBUG (StringRedisController.java:26)- 访问get:key=null
+2018-01-31 11:17:08,547 DEBUG (StringRedisController.java:26)- 访问get:key=1
+2018-01-31 11:17:44,747 INFO (StartupInfoLogger.java:48)- Starting SpringBootSampleRedisApplication on LAPTOP-503VAI52 with PID 14040 (F:\spring\springboot\spring-boot-sample-redis\target\classes started by zengzhihua in F:\spring\springboot\spring-boot-sample-redis)
+2018-01-31 11:17:44,749 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.1.RELEASE, Spring v4.3.6.RELEASE
+2018-01-31 11:17:44,749 INFO (SpringApplication.java:637)- No active profile set, falling back to default profiles: default
+2018-01-31 11:17:48,181 INFO (StartupInfoLogger.java:57)- Started SpringBootSampleRedisApplication in 3.707 seconds (JVM running for 10.763)
+2018-01-31 11:18:07,823 DEBUG (StringRedisController.java:26)- 访问get:key=1
+2018-01-31 11:18:12,189 DEBUG (StringRedisController.java:26)- 访问get:key=null
+2018-01-31 11:18:59,914 DEBUG (StringRedisController.java:32)- 访问set:key=name,value=18
+2018-01-31 11:19:56,453 DEBUG (StringRedisController.java:26)- 访问get:key=name
+2018-01-31 11:22:34,503 INFO (StartupInfoLogger.java:48)- Starting SpringBootSampleRedisApplication on LAPTOP-503VAI52 with PID 20484 (F:\spring\springboot\spring-boot-sample-redis\target\classes started by zengzhihua in F:\spring\springboot\spring-boot-sample-redis)
+2018-01-31 11:22:34,555 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.1.RELEASE, Spring v4.3.6.RELEASE
+2018-01-31 11:22:34,556 INFO (SpringApplication.java:637)- No active profile set, falling back to default profiles: default
+2018-01-31 11:22:38,565 INFO (StartupInfoLogger.java:57)- Started SpringBootSampleRedisApplication in 4.364 seconds (JVM running for 11.283)
+2018-01-31 11:23:26,556 DEBUG (StringRedisController.java:27)- 访问get:key=name
+2018-01-31 11:23:36,760 DEBUG (StringRedisController.java:33)- 访问set:key=age,value=19
+2018-01-31 11:23:45,792 DEBUG (StringRedisController.java:27)- 访问get:key=age

@@ -1,0 +1,11 @@
+2017-02-09 11:16:27,115 INFO (StartupInfoLogger.java:48)- Starting SpringBootSampleRedisApplication on LAPTOP-503VAI52 with PID 8316 (F:\springboot\spring-boot-sample-redis\target\classes started by zengzhihua in F:\springboot\spring-boot-sample-redis)
+2017-02-09 11:16:27,118 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.1.RELEASE, Spring v4.3.6.RELEASE
+2017-02-09 11:16:27,119 INFO (SpringApplication.java:637)- No active profile set, falling back to default profiles: default
+2017-02-09 11:16:30,584 INFO (StartupInfoLogger.java:57)- Started SpringBootSampleRedisApplication in 3.857 seconds (JVM running for 4.358)
+2017-02-09 11:18:35,356 DEBUG (ObjectRedisController.java:22)- 访问setPerson:id=2,name=lxh2,age=2
+2017-02-09 11:19:20,117 DEBUG (ObjectRedisController.java:22)- 访问setPerson:id=2,name=lxh2,age=2
+2017-02-09 11:22:30,700 INFO (StartupInfoLogger.java:48)- Starting SpringBootSampleRedisApplication on LAPTOP-503VAI52 with PID 11020 (F:\springboot\spring-boot-sample-redis\target\classes started by zengzhihua in F:\springboot\spring-boot-sample-redis)
+2017-02-09 11:22:30,700 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.1.RELEASE, Spring v4.3.6.RELEASE
+2017-02-09 11:22:30,700 INFO (SpringApplication.java:637)- No active profile set, falling back to default profiles: default
+2017-02-09 11:22:33,875 INFO (StartupInfoLogger.java:57)- Started SpringBootSampleRedisApplication in 3.519 seconds (JVM running for 3.988)
+2017-02-09 11:22:46,142 DEBUG (ObjectRedisController.java:22)- 访问setPerson:id=2,name=lxh2,age=2
